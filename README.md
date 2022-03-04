@@ -3,7 +3,6 @@
 
 ## I'm a Developer, and Student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Mern Stack and android studio
 - ⚡ Fun fact: I love playing video games
 
